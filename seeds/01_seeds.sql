@@ -16,4 +16,4 @@ values ('d', 'd', '$2a$10$FB/BOAVhpuLvpOREQVmvmezD4ED/.JBIDRh70tGevYzYzQgFId2u')
 insert into property_reviews (guest_id, property_id, reservation_id, rating, message)
 values (1, 1, 1, 1, 'messages'),
 (2, 2, 2, 2, 'messages'),
-(3, 3, 3, 3, 'messages')
+(3, 3, 3, 3, 'messages');
